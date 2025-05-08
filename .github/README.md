@@ -68,8 +68,9 @@
 </p>
 
 <p align="center">
-  [![Brian's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kobeyvines&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobeyvines&theme=tokyonight&v=2" alt="GitHub Streak" />
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kobeyvines/kobeyvines/output/github-snake-dark.svg" />
