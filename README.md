@@ -60,13 +60,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kobeyvines&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kobeyvines&show_icons=true&locale=en&layout=compact&theme=tokyonight&v=2" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kobeyvines&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kobeyvines&show_icons=true&locale=en&theme=tokyonight&v=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobeyvines&theme=tokyonight" alt="GitHub Streak&v=2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobeyvines&theme=tokyonight&v=2" alt="GitHub Streak" />
 </p>
