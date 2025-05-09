@@ -30,7 +30,7 @@
 ### 📫 How to Reach Me
 
 - 📧 **brianirungukuria@outlook.com**
-- 💼 [LinkedIn](www.linkedin.com/in/brian-irungu-5476ba270)
+- 💼 [LinkedIn](https://linkedin.com/in/brian-irungu-5476ba270)
 
 ---
 
