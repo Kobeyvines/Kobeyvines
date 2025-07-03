@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kobeyvines&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kobeyvines&show_icons=true&theme=tokyonight&v=2" />
 </p>
 
 <picture>
