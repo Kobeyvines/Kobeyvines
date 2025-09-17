@@ -62,7 +62,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kobeyvines&show_icons=true&locale=en&layout=compact&theme=tokyonight&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kobeyvines&layout=compact&theme=tokyonight&cache_seconds=7200" />
+
 </p>
 
 <p align="center">
