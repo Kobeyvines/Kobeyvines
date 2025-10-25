@@ -23,7 +23,7 @@
 
 ### 💬 Ask Me About
 
-- Cloud-native development
+- Data Analysis and Machine Learning
 - Backend architecture and container orchestration
 
 ### 📫 How to Reach Me
