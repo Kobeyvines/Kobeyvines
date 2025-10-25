@@ -15,7 +15,7 @@
 
 ### 🔭 Current Project
 
-- [**Food Prices Kenya**](https://github.com/Kobeyvines/food_prices_kenya-2007---2025-): An analysis on food prices in kenya from the year 2007 to 2025.
+- [**Food Prices Kenya**](https://github.com/Kobeyvines/food_prices_kenya-2007---2025-): An analysis of food prices in kenya from the year 2007 to 2025.
 ### 🌱 Currently Learning
 
 - Data Science & AI Agents
