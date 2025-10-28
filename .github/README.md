@@ -31,6 +31,10 @@
 - 📧 **brianirungukuria@outlook.com**
 - 💼 [LinkedIn](https://linkedin.com/in/brian-irungu-5476ba270)
 
+### 📝 Read My Articles
+
+- Check out my latest articles on [**Medium**](https://medium.com/@kobeyvines) — I share insights on data science, backend engineering, and AI workflows
+
 ---
 
 ### 🛠️ Languages & Tools
