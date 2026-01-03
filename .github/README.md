@@ -64,7 +64,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kobeyvines&layout=compact&theme=tokyonight&cache_seconds=7200" />
 </p>
 
@@ -74,7 +74,7 @@
 
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=kobeyvines&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+</p>-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kobeyvines/kobeyvines/output/github-snake-dark.svg" />
