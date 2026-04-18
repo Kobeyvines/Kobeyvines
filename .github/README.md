@@ -45,7 +45,7 @@ I write on [Medium](https://medium.com/@kobeyvines) about data science, Python e
 
 - Deepening work in **Data Science, AI Agents & MLOps**
 - Exploring **LLM workflows** and agentic system design
-- Open to **Junior Python / Data Engineering** roles
+- Open to **Python / Data Engineering** roles
 
 ---
 
