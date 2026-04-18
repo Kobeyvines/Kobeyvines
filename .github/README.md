@@ -1,4 +1,4 @@
-### Hi, I'm Brian Kuria 👋
+### Hi, I'm Brian Kuria 
 
 **AWS Certified Solutions Architect · Data Scientist · Backend Engineer**  
 Based in Nairobi, KE — building systems that are intelligent, scalable, and production-ready.
@@ -9,7 +9,7 @@ I'm passionate about the intersection of **cloud infrastructure**, **machine lea
 
 ---
 
-#### 🔧 Stack
+####  Stack
 
 ```
 Languages     Python · Go · C++
@@ -21,7 +21,7 @@ Databases     PostgreSQL · MongoDB · MySQL · Firebase
 
 ---
 
-#### 🚀 Selected Projects
+####  Selected Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -32,7 +32,7 @@ Databases     PostgreSQL · MongoDB · MySQL · Firebase
 
 ---
 
-#### 📝 Latest Writing
+####  Latest Writing
 
 I write on [Medium](https://medium.com/@kobeyvines) about data science, Python engineering, and working with cloud infrastructure.
 
@@ -41,7 +41,7 @@ I write on [Medium](https://medium.com/@kobeyvines) about data science, Python e
 
 ---
 
-#### 🌱 Currently
+####  Currently
 
 - Deepening work in **Data Science, AI Agents & MLOps**
 - Exploring **LLM workflows** and agentic system design
@@ -49,7 +49,7 @@ I write on [Medium](https://medium.com/@kobeyvines) about data science, Python e
 
 ---
 
-#### 📊 GitHub Stats
+####  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kobeyvines&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" height="160" />
