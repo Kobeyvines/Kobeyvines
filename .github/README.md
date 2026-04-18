@@ -19,7 +19,7 @@ Databases   PostgreSQL · MongoDB · MySQL
 
 **Currently**  
 ↳ Deepening work in Data Science, AI Agents & MLOps  
-↳ Open to Junior Python / Data Engineering roles
+↳ Open to Python / Data Engineering roles
 
 ---
 
